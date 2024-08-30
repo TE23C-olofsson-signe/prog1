@@ -1,0 +1,14 @@
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\obj\Debug\net8.0\luck-text.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\obj\Debug\net8.0\luck-text.AssemblyInfoInputs.cache
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\obj\Debug\net8.0\luck-text.AssemblyInfo.cs
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\obj\Debug\net8.0\luck-text.csproj.CoreCompileInputs.cache
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\bin\Debug\net8.0\luck-text.exe
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\bin\Debug\net8.0\luck-text.deps.json
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\bin\Debug\net8.0\luck-text.runtimeconfig.json
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\bin\Debug\net8.0\luck-text.dll
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\bin\Debug\net8.0\luck-text.pdb
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\obj\Debug\net8.0\luck-text.dll
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\obj\Debug\net8.0\refint\luck-text.dll
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\obj\Debug\net8.0\luck-text.pdb
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\obj\Debug\net8.0\luck-text.genruntimeconfig.cache
+c:\Users\signe.olofsson\Documents\prog1\intro\luck-text\obj\Debug\net8.0\ref\luck-text.dll
