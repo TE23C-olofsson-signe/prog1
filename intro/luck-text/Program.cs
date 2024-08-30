@@ -3,6 +3,7 @@ string colour;
 string music;
 
 
+
 Console.ForegroundColor = ConsoleColor.DarkBlue;
 Console.BackgroundColor = ConsoleColor.White;
 Console.Clear(); 
